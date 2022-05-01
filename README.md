@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpsbtc.  My name is Gerry P. Smith.
-- 👀 I’m interested in learning how to code.
+- 👀 I’m interested in learning how to use linux and to code.
 - 🌱 I’m currently learning about digital scarcity and bitcoin.
 - 📫 You can reach me via https://keybase.io/gpsbtc
 - 👀 My Twitter page is https://twitter.com/BTCGerryS
